@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/Pickaw/adonis-ally-extended#readme",
   "devDependencies": {
-    "@adonisjs/ally": "^2.0.1",
-    "@adonisjs/fold": "^4.0.4"
+    "@adonisjs/ally": "^2.1.3",
+    "@adonisjs/fold": "^4.0.9"
   }
 }
